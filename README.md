@@ -6,7 +6,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <th>系級</th>
  <th><img src="working.jpeg"></th>
  <th><a href="">學習歷程</a></th>
- <th><a href="https://chat.openai.com/">好友</a></th>
+ <th><a href="https://chat.openai.com/">作者</a></th>
  </tr>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
